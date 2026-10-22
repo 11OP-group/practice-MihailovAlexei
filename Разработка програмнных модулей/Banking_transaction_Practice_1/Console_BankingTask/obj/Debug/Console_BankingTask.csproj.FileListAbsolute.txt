@@ -6,3 +6,11 @@ C:\Users\User\Desktop\practice-Alexei\practice-Alexei\Banking_transaction_Practi
 C:\Users\User\Desktop\practice-Alexei\practice-Alexei\Banking_transaction_Practice_1\Console_BankingTask\obj\Debug\Console_BankingTask.exe
 C:\Users\User\Desktop\practice-Alexei\practice-Alexei\Banking_transaction_Practice_1\Console_BankingTask\obj\Debug\Console_BankingTask.pdb
 C:\Users\User\Desktop\practice-Alexei\practice-Alexei\Banking_transaction_Practice_1\Console_BankingTask\obj\Debug\Console_BankingTask.exe.config
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\Banking_transaction_Practice_1\Console_BankingTask\bin\Debug\Console_BankingTask.exe.config
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\Banking_transaction_Practice_1\Console_BankingTask\bin\Debug\Console_BankingTask.exe
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\Banking_transaction_Practice_1\Console_BankingTask\bin\Debug\Console_BankingTask.pdb
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\Banking_transaction_Practice_1\Console_BankingTask\obj\Debug\Console_BankingTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\Banking_transaction_Practice_1\Console_BankingTask\obj\Debug\Console_BankingTask.exe.config
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\Banking_transaction_Practice_1\Console_BankingTask\obj\Debug\Console_BankingTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\Banking_transaction_Practice_1\Console_BankingTask\obj\Debug\Console_BankingTask.exe
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\Banking_transaction_Practice_1\Console_BankingTask\obj\Debug\Console_BankingTask.pdb

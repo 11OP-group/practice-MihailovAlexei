@@ -5,10 +5,10 @@
 
 import math
 
-while True:
-    x = int(input("Какой у вас место?: "))
-    if 0 < x < 37:
-        print(f"Ваше место в вагоне с номеров {math.ceil(x/4)}")
-        break
-    else:
-        print(f"Вы допустили ошибку. Вагона с таким местом нету.")
+SEATS_PER_KUPE = 4
+
+seat_number = int(input("Какой у вас место?: "))
+
+kupe_number = math.ceil(seat_number/SEATS_PER_KUPE)
+
+print(f"Место {seat_number} находится в купе с номеров {kupe_number}")

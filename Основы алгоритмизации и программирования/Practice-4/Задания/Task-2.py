@@ -8,10 +8,12 @@
 
 import math
 
+def dist(x1, x2, y1, y2):
+    return math.sqrt((x1-x2)**2 + (y1-y2)**2)
 
-x1 = float(input("Введите x-1 (действительное число): "))
-x2 = float(input("Введите x-2 (действительное число): "))
-y1 = float(input("Введите y-1 (действительное число): "))
-y2 = float(input("Введите y-2 (действительное число): "))
+x1, y1 = map(float, input("Введите координаты первой точки (x y)").split())
+x2, y2 = map(float, input("Введите координаты первой точки (x y)").split())
 
-print(math.sqrt((x1-x2)**2 + (y1-y2)**2))
+distance = dist(x1, x2, y1, y2)
+
+print(f"Растояние между точками: {distance:.2f}")

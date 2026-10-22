@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\GladiatorBattle_Practice_2\GladiatorBattle_Practice_2\bin\Debug\GladiatorBattle_Practice_2.exe.config
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\GladiatorBattle_Practice_2\GladiatorBattle_Practice_2\bin\Debug\GladiatorBattle_Practice_2.exe
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\GladiatorBattle_Practice_2\GladiatorBattle_Practice_2\bin\Debug\GladiatorBattle_Practice_2.pdb
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\GladiatorBattle_Practice_2\GladiatorBattle_Practice_2\obj\Debug\GladiatorBattle_Practice_2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\GladiatorBattle_Practice_2\GladiatorBattle_Practice_2\obj\Debug\GladiatorBattle_Practice_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\GladiatorBattle_Practice_2\GladiatorBattle_Practice_2\obj\Debug\GladiatorBattle_Practice_2.exe
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\GladiatorBattle_Practice_2\GladiatorBattle_Practice_2\obj\Debug\GladiatorBattle_Practice_2.pdb
+C:\Users\User\Desktop\practice-Alexei\Разработка програмнных модулей\GladiatorBattle_Practice_2\GladiatorBattle_Practice_2\obj\Debug\GladiatorBattle_Practice_2.exe.config
