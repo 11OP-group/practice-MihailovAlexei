@@ -6,5 +6,5 @@ n = int(input("Введите количество дней для размно�
 current_population = m
 
 for i in range(1, n+1):
-    current_population = current_population*(1+(p/100))
+    current_population = current_population * (1+(p/100))
     print(f"День{i} {current_population}")

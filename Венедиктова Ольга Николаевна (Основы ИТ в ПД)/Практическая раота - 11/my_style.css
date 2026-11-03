@@ -1,0 +1,117 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+#first {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    background-image: linear-gradient(rgba(250, 250, 250, 0.5), rgba(250, 250, 250, 0.55)), url(images/first.webp);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+
+}
+
+#first .button {
+    display: block;
+    width: 500px;
+    padding: 1em;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 1.5em;
+    border: 10px solid dimgrey;
+    background-color: rgb(255, 255, 255);
+}
+
+#first h1 {font-size: 5em; }
+
+
+
+
+#first h1 {font-size: 5em;}
+
+#about {
+    background-image: linear-gradient(rgba(250, 250, 250, 0.5), rgba(250, 250, 250, 0.55)), url(images/first.webp);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#about h2 {font-size: 4em;}
+
+#about h3 {font-size: 3em;}
+
+#service {
+    background-image: linear-gradient(rgba(250, 250, 250, 0.5), rgba(250, 250, 250, 0.55)), url(images/about.webp);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#service h2 {font-size: 4em;}
+
+#contact {
+    background-image: linear-gradient(rgba(250, 250, 250, 0.5), rgba(250, 250, 250, 0.55)), url(images/service.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}       
+
+#contact h2 {font-size: 4em;}
+#contact h3 {font-size: 2em;}
+
+
+body {
+    margin: 0;
+    margin-top: 50px;
+}
+header {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    line-height: 50px;
+    background-color: rgb(189, 175, 175); 
+}
+
+header * {
+    display: inline;
+    height: 50px;
+}
+
+header ul {padding: 0;}
+
+header li {
+    margin-left: 100px;
+    justify-content: center;
+}
+
+section {
+    height: 100vh;
+    border: 10px solid rgb(189, 175, 175);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+footer {
+    height: 10vh;
+    text-align: center;
+    padding: 100px;
+}
