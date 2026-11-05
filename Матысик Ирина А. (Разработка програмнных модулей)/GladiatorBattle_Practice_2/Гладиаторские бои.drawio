@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="1qaXTiVM0F_KXrGB8TcO">
+    <mxGraphModel dx="2396" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CCy-OaKCrpJUvb0RDUOo-7" edge="1" parent="1" source="CCy-OaKCrpJUvb0RDUOo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="CCy-OaKCrpJUvb0RDUOo-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCy-OaKCrpJUvb0RDUOo-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=48;" value="&lt;div&gt;Начало&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CCy-OaKCrpJUvb0RDUOo-8" edge="1" parent="1" source="CCy-OaKCrpJUvb0RDUOo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="CCy-OaKCrpJUvb0RDUOo-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCy-OaKCrpJUvb0RDUOo-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ввод здоровья и&lt;br&gt;крепости брони" vertex="1">
+          <mxGeometry height="60" width="170" x="329" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CCy-OaKCrpJUvb0RDUOo-9" edge="1" parent="1" source="CCy-OaKCrpJUvb0RDUOo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="CCy-OaKCrpJUvb0RDUOo-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCy-OaKCrpJUvb0RDUOo-4" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Расчёт удара" vertex="1">
+          <mxGeometry height="60" width="144" x="342" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="CCy-OaKCrpJUvb0RDUOo-10" edge="1" parent="1" source="CCy-OaKCrpJUvb0RDUOo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="CCy-OaKCrpJUvb0RDUOo-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCy-OaKCrpJUvb0RDUOo-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Расчёт урона" vertex="1">
+          <mxGeometry height="60" width="144" x="342" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="CCy-OaKCrpJUvb0RDUOo-15" edge="1" parent="1" source="CCy-OaKCrpJUvb0RDUOo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="CCy-OaKCrpJUvb0RDUOo-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCy-OaKCrpJUvb0RDUOo-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Вычисление&lt;/div&gt;&lt;div&gt;здоровья&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="144" x="341" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="CCy-OaKCrpJUvb0RDUOo-17" edge="1" parent="1" source="CCy-OaKCrpJUvb0RDUOo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="CCy-OaKCrpJUvb0RDUOo-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCy-OaKCrpJUvb0RDUOo-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="Вывод: Здоровье" vertex="1">
+          <mxGeometry height="60" width="154" x="336" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="CCy-OaKCrpJUvb0RDUOo-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=48;" value="&lt;div&gt;Конец&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="353" y="710" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
