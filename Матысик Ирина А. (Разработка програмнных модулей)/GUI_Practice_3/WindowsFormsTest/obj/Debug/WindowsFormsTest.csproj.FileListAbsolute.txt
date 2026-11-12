@@ -1,0 +1,11 @@
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\GUI_Practice_3\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe.config
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\GUI_Practice_3\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\GUI_Practice_3\WindowsFormsTest\bin\Debug\WindowsFormsTest.pdb
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\GUI_Practice_3\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\GUI_Practice_3\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\GUI_Practice_3\WindowsFormsTest\obj\Debug\WindowsFormsTest.Form1.resources
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\GUI_Practice_3\WindowsFormsTest\obj\Debug\WindowsFormsTest.Properties.Resources.resources
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\GUI_Practice_3\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\GUI_Practice_3\WindowsFormsTest\obj\Debug\WindowsFormsTest.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\GUI_Practice_3\WindowsFormsTest\obj\Debug\WindowsFormsTest.exe
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\GUI_Practice_3\WindowsFormsTest\obj\Debug\WindowsFormsTest.pdb
