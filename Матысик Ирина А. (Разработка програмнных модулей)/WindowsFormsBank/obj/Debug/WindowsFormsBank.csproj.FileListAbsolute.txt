@@ -1,0 +1,33 @@
+C:\Users\stud.R213-05\Desktop\11ОП Витушенков\WindowsFormsBank\bin\Debug\WindowsFormsBank.exe.config
+C:\Users\stud.R213-05\Desktop\11ОП Витушенков\WindowsFormsBank\bin\Debug\WindowsFormsBank.exe
+C:\Users\stud.R213-05\Desktop\11ОП Витушенков\WindowsFormsBank\bin\Debug\WindowsFormsBank.pdb
+C:\Users\stud.R213-05\Desktop\11ОП Витушенков\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.AssemblyReference.cache
+C:\Users\stud.R213-05\Desktop\11ОП Витушенков\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud.R213-05\Desktop\11ОП Витушенков\WindowsFormsBank\obj\Debug\WindowsFormsBank.Properties.Resources.resources
+C:\Users\stud.R213-05\Desktop\11ОП Витушенков\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.GenerateResource.cache
+C:\Users\stud.R213-05\Desktop\11ОП Витушенков\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.CoreCompileInputs.cache
+C:\Users\stud.R213-05\Desktop\11ОП Витушенков\WindowsFormsBank\obj\Debug\WindowsFormsBank.exe
+C:\Users\stud.R213-05\Desktop\11ОП Витушенков\WindowsFormsBank\obj\Debug\WindowsFormsBank.pdb
+C:\Users\stud.R213-05\Desktop\11ОП Витушенков\WindowsFormsBank\obj\Debug\WindowsFormsBank.Form1.resources
+C:\Users\stud.R213-06\Desktop\WindowsFormsBank\bin\Debug\WindowsFormsBank.exe.config
+C:\Users\stud.R213-06\Desktop\WindowsFormsBank\bin\Debug\WindowsFormsBank.exe
+C:\Users\stud.R213-06\Desktop\WindowsFormsBank\bin\Debug\WindowsFormsBank.pdb
+C:\Users\stud.R213-06\Desktop\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.AssemblyReference.cache
+C:\Users\stud.R213-06\Desktop\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud.R213-06\Desktop\WindowsFormsBank\obj\Debug\WindowsFormsBank.Form1.resources
+C:\Users\stud.R213-06\Desktop\WindowsFormsBank\obj\Debug\WindowsFormsBank.Properties.Resources.resources
+C:\Users\stud.R213-06\Desktop\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.GenerateResource.cache
+C:\Users\stud.R213-06\Desktop\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.CoreCompileInputs.cache
+C:\Users\stud.R213-06\Desktop\WindowsFormsBank\obj\Debug\WindowsFormsBank.exe
+C:\Users\stud.R213-06\Desktop\WindowsFormsBank\obj\Debug\WindowsFormsBank.pdb
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\WindowsFormsBank\obj\Debug\WindowsFormsBank.exe
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\WindowsFormsBank\obj\Debug\WindowsFormsBank.pdb
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\WindowsFormsBank\bin\Debug\WindowsFormsBank.exe.config
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\WindowsFormsBank\bin\Debug\WindowsFormsBank.exe
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\WindowsFormsBank\bin\Debug\WindowsFormsBank.pdb
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\WindowsFormsBank\obj\Debug\WindowsFormsBank.Form1.resources
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\WindowsFormsBank\obj\Debug\WindowsFormsBank.Properties.Resources.resources
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\11ОП\practice-MihailovAlexei-master\Матысик Ирина А. (Разработка програмнных модулей)\WindowsFormsBank\obj\Debug\WindowsFormsBank.csproj.CoreCompileInputs.cache
